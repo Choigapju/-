@@ -27,6 +27,6 @@ def solution(new_id):
     # 7
     while len(answer) < 3:
         answer += answer[-1]
+
     return answer
 ```
-₩₩₩
